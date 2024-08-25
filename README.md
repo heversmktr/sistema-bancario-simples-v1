@@ -1,6 +1,6 @@
 # Criando um sistema bancário com python
 
-Desafio proposto no módulo de Python da DIO, a princípio foi realizada apenas uma melhoria do código, em seguida será implementada novas funcionalidades no código. 
+Desafio proposto no módulo de Sintaxe Básica do Python da DIO dentro do programa de bootcamp da NTT, a princípio foi realizada apenas uma melhoria do código, em seguida será implementada novas funcionalidades no código. 
 
 
 ## Mudanças em comparação com a v1
